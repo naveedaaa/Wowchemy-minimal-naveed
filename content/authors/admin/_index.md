@@ -6,7 +6,7 @@ title: Naveed Akram
 superuser: true
 
 # Role/position
-role: ''
+role: 'Advising Founders in their Pursuit of Freedom'
 
 # Status emoji
 status:
