@@ -6,7 +6,7 @@ title: Naveed Akram
 superuser: true
 
 # Role/position
-role: 'Advising Founders in their Pursuit of Freedom'
+role: ''
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Advising Founders in their Pursuit of Freedom'
+bio: ''
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
